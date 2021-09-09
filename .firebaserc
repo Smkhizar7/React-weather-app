@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "myfirstproject-a2f77"
+  },
+  "targets": {
+    "myfirstproject-a2f77": {
+      "hosting": {
+        "weather": [
+          "weather-status-app"
+        ]
+      }
+    }
+  }
+}
